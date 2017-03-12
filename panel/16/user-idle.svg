@@ -81,7 +81,7 @@
      transform="translate(-0.4642613,-2.999982)">
     <path
        sodipodi:type="arc"
-       style="opacity:0.45;fill:#8b8b8b;stroke:none;fill-opacity:1"
+       style="opacity:0.45;fill:#757575;stroke:none;fill-opacity:1"
        id="path2863"
        sodipodi:cx="8"
        sodipodi:cy="8"
@@ -92,7 +92,7 @@
        sodipodi:start="0"
        sodipodi:end="4.712389" />
     <path
-       style="fill:#8b8b8b;fill-opacity:1;stroke:none;display:inline;opacity:1"
+       style="fill:#757575;fill-opacity:1;stroke:none;display:inline;opacity:1"
        d="M 8 2 C 4.1340071 2 1 4.4101491 1 8 C 1 11.589851 4.1340071 14 8 14 C 9.064957 14 10.065093 13.770035 10.96875 13.375 L 15 15 L 13.5625 11.4375 C 14.465672 10.342799 15 9.485565 15 8 C 15 4.4101491 11.865993 2 8 2 z M 8 4 C 10.761424 4 13 5.7908611 13 8 C 13 10.209139 10.761424 12 8 12 C 5.2385763 12 3 10.209139 3 8 C 3 5.7908611 5.2385763 4 8 4 z "
        transform="translate(0.4642613,2.999982)"
        id="path2892" />

@@ -56,12 +56,12 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:0.35;fill:#8b8b8b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.35;fill:#757575;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.3894473e-7,1041.8712 8.0000031,1050.3759 16,1041.8712 a 11.313713,12.02742 0 0 0 -15.99999966105527,0 z"
        id="path4700"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:#8b8b8b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#757575;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 8 10 A 4 4 0 0 0 5.2539062 11.095703 L 8 14.013672 L 10.744141 11.097656 A 4 4 0 0 0 8 10 z "
        transform="translate(0,1036.3622)"
        id="path4700-4" />

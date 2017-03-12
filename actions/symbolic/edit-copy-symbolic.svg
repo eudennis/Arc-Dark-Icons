@@ -103,7 +103,7 @@
            id="layer1-11">
           <path
              inkscape:connector-curvature="0"
-             style="display:inline;fill:#8b8b8b;fill-opacity:1;stroke:none"
+             style="display:inline;fill:#757575;fill-opacity:1;stroke:none"
              d="M 6.5,1 C 5.669,1 5,1.669 5,2.5 l 0,8 C 5,11.331 5.669,12 6.5,12 l 6,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-8 C 14,1.669 13.331,1 12.5,1 l -6,0 z m 1,2 4,0 C 11.777,3 12,3.223 12,3.5 l 0,6 C 12,9.777 11.777,10 11.5,10 l -4,0 C 7.223,10 7,9.777 7,9.5 l 0,-6 C 7,3.223 7.223,3 7.5,3 Z m -4,1 C 2.669,4 2,4.669 2,5.5 l 0,8 C 2,14.331 2.669,15 3.5,15 l 6,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-0.5 -2.5,0 -4,0 C 4.223,13 4,12.777 4,12.5 L 4,6.5 4,4 3.5,4 Z"
              id="Symbol-1"
              sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />

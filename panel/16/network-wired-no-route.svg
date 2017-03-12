@@ -58,7 +58,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#8b8b8b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#757575;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3,2 C 1.892,2 1,2.8919904 1,4 l 0,7 c 0,1.10801 0.892,2 2,2 l 1,0 1,1 6,0 1,-1 1,0 c 1.108,0 2,-0.89199 2,-2 L 15,4 C 15,2.8919904 14.108,2 13,2 Z m 0,2 10,0 0,7 -2,0 -1,1 -4,0 -1,-1 -2,0 z"
        transform="translate(0,1036.3622)"
        id="rect4699"
@@ -66,7 +66,7 @@
        sodipodi:nodetypes="ssssccccsssssccccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:bold;font-size:45.25266647px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#8b8b8b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:bold;font-size:45.25266647px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#757575;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="5.9892616"
        y="1047.5793"
        id="text4135"
@@ -75,6 +75,6 @@
          id="tspan4137"
          x="5.9892616"
          y="1047.5793"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.05053234px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#8b8b8b;fill-opacity:1;">?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.05053234px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#757575;fill-opacity:1;">?</tspan></text>
   </g>
 </svg>

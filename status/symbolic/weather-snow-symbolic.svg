@@ -22,7 +22,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#8b8b8b"
+     bordercolor="#757575"
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -85,7 +85,7 @@
        style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.35"
        id="path3854"
        sodipodi:cx="5"
@@ -102,12 +102,12 @@
        sodipodi:cy="14"
        sodipodi:cx="5"
        id="path3856"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.35"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.35"
        id="path3859"
        sodipodi:cx="5"
@@ -129,7 +129,7 @@
        sodipodi:cy="14"
        sodipodi:cx="5"
        id="path3855"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
     <path
@@ -140,12 +140,12 @@
        sodipodi:cy="14"
        sodipodi:cx="5"
        id="path3862"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3864"
        sodipodi:cx="5"
@@ -155,7 +155,7 @@
        d="m 6,14 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
        transform="translate(4.9999988,-2.0000035)" />
     <path
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 7.5 0 C 5.164201 0 3.253781 1.785153 3.03125 4.0625 C 1.877066 4.283877 1 5.281256 1 6.5 C 1 7.880712 2.119288 9 3.5 9 L 5.28125 9 C 5.627292 8.4031054 6.260397 8 7 8 C 7.739603 8 8.372708 8.4031054 8.71875 9 L 11.5 9 C 13.432997 9 15 7.432997 15 5.5 C 15 3.567003 13.432997 2 11.5 2 C 11.41568 2 11.332827 2.02539 11.25 2.03125 C 10.446562 0.802689 9.077518 0 7.5 0 z "
        id="path3901" />

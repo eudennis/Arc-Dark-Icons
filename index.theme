@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Arc Dark Icons
-Inherits=Moka,Adwaita,gnome,hicolor
+Inherits=elementary, Numix Light, Moka,Adwaita,gnome,hicolor
 Comment=Arc Icon Theme with Dark Icon on Unity Panel
 
 #Directory list

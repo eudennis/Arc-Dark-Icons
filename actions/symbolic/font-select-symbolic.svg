@@ -134,12 +134,12 @@
      style="display:inline"
      transform="translate(-241,-827)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#8b8b8b;fill:#8b8b8b;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#757575;fill:#757575;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        d="M 0 5 L 0 6 L 0 10 L 0 11 L 1 11 C 1.30945 11 1.55232 10.9097 1.75 10.71875 L 4.40625 8 L 1.75 5.28125 C 1.55232 5.0903 1.30945 5 1 5 L 0 5 z "
        transform="translate(241,827)"
        id="path26548" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#8b8b8b;fill:#8b8b8b;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#757575;fill:#757575;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        d="M 15 5 C 14.69055 5 14.44768 5.0903 14.25 5.28125 L 11.59375 8 L 14.25 10.71875 C 14.44768 10.9097 14.69055 11 15 11 L 16 11 L 16 10 L 16 6 L 16 5 L 15 5 z "
        transform="translate(241,827)"
        id="path26550" />
@@ -147,6 +147,6 @@
        inkscape:connector-curvature="0"
        d="m 248,830 0,2 1.90625,0 c -0.0552,0 0.0937,0.17104 0.0937,0.0937 l 0,0.9375 -1,0 c -1.71588,0 -3.03787,1.10986 -3.0625,2.46875 -0.0123,0.67944 0.3195,1.35323 0.875,1.8125 0.5555,0.45927 1.30959,0.71875 2.1875,0.71875 l 2,0 1,0 0,-1 0,-4.9375 C 252,830.92256 251.10309,830 249.90625,830 L 248,830 z m 1,5.03125 1,0 0,1 -1,0 c -0.51941,0 -0.78011,-0.14571 -0.90625,-0.25 -0.12614,-0.10429 -0.15755,-0.17804 -0.15625,-0.25 0.003,-0.14393 0.0927,-0.5 1.0625,-0.5 z"
        id="path11643-3-2-67"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#8b8b8b;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#757575;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   </g>
 </svg>

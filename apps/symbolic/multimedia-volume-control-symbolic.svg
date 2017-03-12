@@ -102,18 +102,18 @@
        inkscape:connector-curvature="0"
        d="m 94.983734,679.92188 a 1.984375,1.984375 0 0 1 -1.984375,1.98437 1.984375,1.984375 0 0 1 -1.984375,-1.98437 1.984375,1.984375 0 0 1 1.984375,-1.98438 1.984375,1.984375 0 0 1 1.984375,1.98438 z"
        id="path18806-9"
-       style="color:#000000;fill:#8b8b8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:#757575;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <path
        inkscape:connector-curvature="0"
        d="m 84.5,679 a 1.0001,1.0001 0 1 0 0,2 l 13,0 a 1.0001,1.0001 0 1 0 0,-2 l -13,0 z"
        id="path11089"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#8b8b8b;fill-opacity:1;stroke:none;stroke-width:2;paint-order:normal;marker:none;visibility:visible;display:inline;overflow:visible;isolation:auto;mix-blend-mode:normal;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;font-family:sans-serif;-inkscape-font-specification:sans-serif" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#757575;fill-opacity:1;stroke:none;stroke-width:2;paint-order:normal;marker:none;visibility:visible;display:inline;overflow:visible;isolation:auto;mix-blend-mode:normal;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;font-family:sans-serif;-inkscape-font-specification:sans-serif" />
     <path
        inkscape:connector-curvature="0"
        d="m 84.03145,675.96875 13.9375,0 0,-3.9375 z"
        id="path11091"
        sodipodi:nodetypes="cccc"
-       style="fill:#8b8b8b;fill-opacity:1;stroke:none" />
+       style="fill:#757575;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"

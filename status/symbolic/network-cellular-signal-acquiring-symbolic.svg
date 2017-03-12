@@ -22,7 +22,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#8b8b8b"
+     bordercolor="#757575"
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -85,11 +85,11 @@
        height="12.999999"
        width="3.0000002"
        id="rect2979"
-       style="opacity:0.45;color:#000000;fill:#8b8b8b
+       style="opacity:0.45;color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        rx="1" />
     <rect
-       style="opacity:0.45;color:#000000;fill:#8b8b8b
+       style="opacity:0.45;color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2981"
        width="3"
@@ -103,11 +103,11 @@
        height="7"
        width="3"
        id="rect2983"
-       style="opacity:0.45;color:#000000;fill:#8b8b8b
+       style="opacity:0.45;color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        rx="1" />
     <rect
-       style="opacity:0.45;color:#000000;fill:#8b8b8b
+       style="opacity:0.45;color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2985"
        width="3"
@@ -117,7 +117,7 @@
        rx="1" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000000999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3112"
        sodipodi:cx="8"
@@ -132,13 +132,13 @@
        sodipodi:cy="15"
        sodipodi:cx="8"
        id="path3882"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc"
        transform="translate(3,0)" />
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3884"
        sodipodi:cx="8"

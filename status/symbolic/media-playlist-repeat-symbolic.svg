@@ -22,7 +22,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#8b8b8b"
+     bordercolor="#757575"
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -80,7 +80,7 @@
      id="layer1">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#8b8b8b
+       style="fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 3.5,3 C 2.115,3 1,4.115 1,5.5 l 0,5 C 1,11.885 2.115,13 3.5,13 l 1.53125,0 C 5.0208,12.922482 5,12.862323 5,12.78125 L 5,11 4.5,11 C 3.669,11 3,10.331 3,9.5 l 0,-3 C 3,5.669 3.669,5 4.5,5 l 7,0 C 12.331,5 13,5.669 13,6.5 l 0,3 c 0,0.831 -0.669,1.5 -1.5,1.5 l -0.5,0 0,-2 -4,3 4,3 0,-2 1.5,0 c 1.385,0 2.5,-1.115 2.5,-2.5 l 0,-5 C 15,4.115 13.885,3 12.5,3 z"
        id="Symbol"

@@ -22,7 +22,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#8b8b8b"
+     bordercolor="#757575"
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -80,7 +80,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 7.5,3 C 5.164201,3 3.2537814,4.7851525 3.03125,7.0625 1.8770657,7.2838766 1,8.2812563 1,9.5 1,10.880712 2.1192881,12 3.5,12 l 4,0 4,0 C 13.432997,12 15,10.432997 15,8.5 15,6.5670033 13.432997,5 11.5,5 11.415681,5 11.332827,5.0253863 11.25,5.03125 10.446562,3.8026891 9.077518,3 7.5,3 z"
        id="path3110"
@@ -89,7 +89,7 @@
        sodipodi:type="inkscape:offset"
        inkscape:radius="0"
        inkscape:original="M 8.5 8 C 7.090611 8 5.898474 8.8306837 5.34375 10.03125 C 4.03855 10.114742 3 11.17372 3 12.5 C 3 13.880712 4.119288 15 5.5 15 L 8.5 15 C 10.432997 15 12 13.432997 12 11.5 C 12 9.567003 10.432997 8 8.5 8 z "
-       style="color:#000000;fill:#8b8b8b
+       style="color:#000000;fill:#757575
 ;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3893"
        d="M 8.5,8 C 7.090611,8 5.898474,8.8306837 5.34375,10.03125 4.03855,10.114742 3,11.17372 3,12.5 3,13.880712 4.119288,15 5.5,15 l 3,0 C 10.432997,15 12,13.432997 12,11.5 12,9.567003 10.432997,8 8.5,8 z"

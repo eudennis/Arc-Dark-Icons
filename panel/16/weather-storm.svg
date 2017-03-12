@@ -101,12 +101,12 @@
        sodipodi:cy="6"
        sodipodi:cx="4"
        id="path3094"
-       style="color:#000000;fill:#8b8b8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#757575;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        sodipodi:type="arc" />
     <path
        transform="matrix(1.5,0,0,1.5,-18.5,-24.5)"
        sodipodi:type="arc"
-       style="color:#000000;fill:#8b8b8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#757575;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3096"
        sodipodi:cx="4"
        sodipodi:cy="6"
@@ -119,13 +119,13 @@
        height="4"
        width="5"
        id="rect3100"
-       style="color:#000000;fill:#8b8b8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#757575;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
-       style="color:#000000;fill:#8b8b8b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#757575;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 7.5 0 C 5.164201 0 3.253781 1.7851525 3.03125 4.0625 C 1.877066 4.2838766 1 5.2812563 1 6.5 C 1 7.8807119 2.119288 9 3.5 9 L 4.71875 9 L 5.03125 7.75 A 0.99228672 0.99228672 0 0 1 5.90625 7 A 0.99228672 0.99228672 0 0 1 6 7 L 9 7 A 0.99228672 0.99228672 0 0 1 9.875 8.4375 L 9.59375 9 L 10.09375 9 L 11.5 9 C 13.432997 9 15 7.4329967 15 5.5 C 15 3.5670033 13.432997 2 11.5 2 C 11.415681 2 11.332827 2.0253863 11.25 2.03125 C 10.446562 0.80268909 9.077518 0 7.5 0 z "
        id="path3126" />
     <path
-       style="fill:#8b8b8b;fill-opacity:1;stroke:none"
+       style="fill:#757575;fill-opacity:1;stroke:none"
        d="m 6,8 -1,4 2,0 -1,4 4,-6 -2,0 1,-2 z"
        id="path3134"
        inkscape:connector-curvature="0"

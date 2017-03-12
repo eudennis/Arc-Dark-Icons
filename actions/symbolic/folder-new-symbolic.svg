@@ -182,7 +182,7 @@
            inkscape:label="Calque 1"
            id="layer1-02">
           <path
-             style="display:inline;fill:#8b8b8b;fill-opacity:1;stroke:none"
+             style="display:inline;fill:#757575;fill-opacity:1;stroke:none"
              d="M 3,1 C 2.446,1 2,1.446 2,2 L 2,3 14,3 C 14,2.446 13.554,2 13,2 L 7,2 C 7,1.446 6.554,1 6,1 Z M 2.5,4 C 1.669,4 1,4.669 1,5.5 l 0,8 C 1,14.331 1.669,15 2.5,15 l 11,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-8 C 15,4.669 14.331,4 13.5,4 Z m 4.5,2 2,0 0,2 2,0 0,2 -2,0 0,2 -2,0 0,-2 -2,0 0,-2 2,0 z"
              id="path3046"
              inkscape:connector-curvature="0"
